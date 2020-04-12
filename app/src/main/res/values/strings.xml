@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MicroChat</string>
+    <string name="callProfileName">Username</string>
+    <string name="makeCall">Calling…</string>
+    <string name="senderMsg">Sender Message</string>
+    <string name="receiverMsg">Receiver Message</string>
+
+    <string-array name="text">
+        <item>Calling…</item>
+        <item>Calling…</item>
+        <item>Calling…</item>
+    </string-array>
+</resources>
