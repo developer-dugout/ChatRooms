@@ -1,5 +1,5 @@
 # ChatRooms
-Guys, this is Animated Career Adviser Android App are creating and details it for more learning by using the Firebase database for learning and seeking education, therefore, I've not uploaded the code so that you can practice as video follow. thanx for watching any further questions you can ask in comments.
+Guys, this is Animated ChatRooms like Chat App in Android are creating and details it for more learning by using the Firebase database for learning and seeking education, therefore, I've not uploaded the code so that you can practice as video follow. thanx for watching any further questions you can ask in comments.
 
 # Android App with Firebase Database:
 Android software development is the process by which new applications are created for devices running the Android operating system. Google states that "Android apps can be written using Kotlin, Java, and C++ languages" using the Android software development kit (SDK), while using other languages is also possible.
